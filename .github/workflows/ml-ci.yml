@@ -1,5 +1,5 @@
 
-name: Ecommerce ML CI
+name: Ecommerce ML CI and CD
 
 on:
   push:
@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  train-and-test:
+  train-test-and-package:
     runs-on: ubuntu-latest
 
     steps:
@@ -32,15 +32,18 @@ jobs:
       - name: Run ML quality gate
         run: python quality_gate.py
 
-      - name: Run automated tests
-        run: pytest -v
-        
-      - name: Upload ML artifacts
+      - name: Run ML tests
+        run: pytest -v test_model.py
+
+      - name: Run application tests
+        run: pytest -v test_app.py
+
+      - name: Upload release artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: ecommerce-ml-artifacts
+          name: ecommerce-ml-release
           path: |
             artifacts/ecommerce_pipeline.joblib
             artifacts/metrics.json
+            app.py
           retention-days: 7
-
