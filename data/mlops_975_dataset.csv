@@ -1,0 +1,501 @@
+customer_id,age,product_category,price,quantity,discount_percent,rating,delivery_days,payment_method,region,membership_level,previous_orders,total_amount,high_value_purchase
+CUST0001,50,Beauty,10411.86,1,25,3.7,9,Credit Card,South,Platinum,1,7808.9,0
+CUST0002,47,Sports,48405.1,4,20,1.4,7,Debit Card,Central,Gold,16,154896.32,1
+CUST0003,54,Home & Kitchen,35604.43,1,20,4.9,8,UPI,South,Regular,15,28483.54,0
+CUST0004,40,Sports,10134.44,2,0,3.0,9,Debit Card,East,Regular,1,20268.88,0
+CUST0005,27,Sports,36864.11,1,25,1.6,6,COD,East,Silver,27,27648.08,0
+CUST0006,22,Clothing,26585.03,2,0,2.4,5,Debit Card,West,Gold,21,53170.06,0
+CUST0007,53,Home & Kitchen,35419.06,3,5,2.7,6,COD,South,Silver,29,100944.32,1
+CUST0008,51,Home & Kitchen,38434.42,2,10,4.0,2,COD,West,Silver,19,69181.96,1
+CUST0009,48,Home & Kitchen,4546.05,2,30,4.0,4,Debit Card,South,Gold,5,6364.47,0
+CUST0010,27,Sports,25402.98,5,20,3.4,3,Debit Card,West,Regular,27,101611.92,1
+CUST0011,36,Beauty,46613.31,4,5,1.4,7,COD,East,Gold,24,177130.58,1
+CUST0012,49,Home & Kitchen,16166.98,4,10,1.6,9,UPI,Central,Regular,28,58201.13,0
+CUST0013,18,Books,29774.38,3,5,1.4,5,COD,West,Regular,9,84856.98,1
+CUST0014,22,Sports,18586.68,3,25,3.3,6,Net Banking,South,Silver,27,41820.03,0
+CUST0015,62,Clothing,22821.55,4,20,4.5,10,COD,South,Gold,9,73028.96,1
+CUST0016,21,Beauty,27519.44,5,30,2.7,2,UPI,East,Regular,7,96318.04,1
+CUST0017,33,Books,27535.31,4,0,1.6,3,Net Banking,South,Regular,0,110141.24,1
+CUST0018,41,Books,10245.18,5,0,3.2,3,Credit Card,North,Platinum,12,51225.9,0
+CUST0019,33,Clothing,34290.66,3,10,4.2,9,Credit Card,Central,Regular,23,92584.78,1
+CUST0020,19,Beauty,4574.83,1,30,4.0,7,UPI,West,Silver,8,3202.38,0
+CUST0021,45,Sports,7112.47,3,15,4.5,8,COD,Central,Silver,21,18136.8,0
+CUST0022,49,Electronics,334.0,3,25,2.1,10,Debit Card,East,Silver,9,751.5,0
+CUST0023,44,Beauty,6010.46,2,10,1.8,9,UPI,West,Silver,14,10818.83,0
+CUST0024,37,Clothing,23762.68,2,15,4.5,6,Net Banking,West,Regular,4,40396.56,0
+CUST0025,41,Books,30382.87,2,5,3.6,4,Net Banking,North,Silver,21,57727.45,0
+CUST0026,29,Sports,39754.61,2,25,2.2,1,Credit Card,East,Regular,15,59631.92,0
+CUST0027,52,Beauty,5512.62,5,5,4.0,8,Net Banking,South,Silver,12,26184.94,0
+CUST0028,50,Electronics,42565.23,4,30,4.3,7,UPI,North,Regular,21,119182.64,1
+CUST0029,50,Electronics,37348.53,1,20,3.5,2,Net Banking,North,Silver,24,29878.82,0
+CUST0030,60,Home & Kitchen,20543.21,3,25,3.8,8,UPI,Central,Regular,19,46222.22,0
+CUST0031,54,Home & Kitchen,46659.32,5,15,2.5,5,Debit Card,Central,Regular,17,198302.11,1
+CUST0032,29,Clothing,49547.29,1,20,3.2,7,Credit Card,Central,Regular,10,39637.83,0
+CUST0033,20,Beauty,10408.09,5,0,3.1,4,Net Banking,North,Regular,26,52040.45,0
+CUST0034,18,Beauty,19084.58,5,15,4.4,5,UPI,South,Gold,8,81109.47,1
+CUST0035,50,Books,46336.18,3,10,4.4,8,COD,West,Regular,15,125107.69,1
+CUST0036,57,Books,36134.51,4,0,4.3,1,Credit Card,Central,Platinum,1,144538.04,1
+CUST0037,27,Books,2594.11,2,0,1.0,1,Debit Card,South,Platinum,25,5188.22,0
+CUST0038,60,Home & Kitchen,39118.42,4,10,4.0,4,UPI,East,Silver,24,140826.31,1
+CUST0039,61,Beauty,41430.46,3,25,4.0,3,Debit Card,Central,Regular,1,93218.54,1
+CUST0040,46,Beauty,37574.0,3,0,3.7,10,Debit Card,West,Regular,11,112722.0,1
+CUST0041,30,Electronics,40015.95,3,30,4.0,2,Net Banking,East,Gold,7,84033.5,1
+CUST0042,29,Home & Kitchen,41290.61,1,15,4.4,3,Net Banking,East,Regular,8,35097.02,0
+CUST0043,48,Sports,9481.97,4,20,2.9,1,UPI,West,Regular,11,30342.3,0
+CUST0044,63,Home & Kitchen,11936.45,4,0,3.0,1,COD,Central,Silver,25,47745.8,0
+CUST0045,19,Sports,31760.18,5,15,1.5,6,UPI,North,Gold,8,134980.76,1
+CUST0046,52,Electronics,45410.73,5,5,2.5,5,COD,West,Gold,9,215700.97,1
+CUST0047,40,Clothing,15945.59,5,15,3.6,8,Debit Card,West,Regular,24,67768.76,0
+CUST0048,34,Beauty,29496.67,3,20,4.1,2,Credit Card,West,Silver,1,70792.01,1
+CUST0049,43,Electronics,34211.51,4,15,1.9,4,UPI,East,Regular,15,116319.13,1
+CUST0050,25,Beauty,22706.04,3,10,1.6,8,UPI,South,Regular,19,61306.31,0
+CUST0051,46,Books,35745.37,1,20,3.7,6,COD,North,Gold,6,28596.3,0
+CUST0052,43,Clothing,45002.44,5,25,1.0,1,Debit Card,Central,Regular,27,168759.15,1
+CUST0053,27,Clothing,31279.26,3,5,1.7,4,Debit Card,Central,Regular,1,89145.89,1
+CUST0054,43,Electronics,27080.1,3,10,1.1,1,COD,South,Regular,0,73116.27,1
+CUST0055,51,Clothing,22048.48,1,25,1.7,2,Debit Card,West,Gold,18,16536.36,0
+CUST0056,58,Sports,28957.82,2,15,1.7,5,Net Banking,North,Gold,27,49228.29,0
+CUST0057,24,Clothing,17896.05,4,20,2.6,8,Credit Card,Central,Silver,3,57267.36,0
+CUST0058,21,Beauty,19694.81,2,5,2.6,8,UPI,Central,Gold,23,37420.14,0
+CUST0059,62,Beauty,26685.5,5,10,4.5,3,Credit Card,West,Regular,21,120084.75,1
+CUST0060,28,Beauty,3516.63,3,25,3.0,4,UPI,South,Silver,26,7912.42,0
+CUST0061,46,Beauty,11604.46,1,25,3.9,10,Net Banking,North,Regular,1,8703.34,0
+CUST0062,53,Sports,27232.9,1,5,1.4,6,Debit Card,South,Regular,30,25871.26,0
+CUST0063,42,Home & Kitchen,21689.1,4,30,1.9,10,COD,South,Silver,24,60729.48,0
+CUST0064,38,Books,16773.23,2,15,3.8,3,Net Banking,North,Platinum,13,28514.49,0
+CUST0065,53,Electronics,36580.35,4,5,1.2,2,Credit Card,North,Regular,1,139005.33,1
+CUST0066,27,Beauty,34746.14,3,25,2.9,6,COD,Central,Regular,28,78178.82,1
+CUST0067,54,Clothing,8502.19,4,0,3.4,5,Debit Card,Central,Regular,14,34008.76,0
+CUST0068,26,Beauty,43954.73,1,10,3.4,10,Net Banking,North,Regular,11,39559.26,0
+CUST0069,41,Clothing,24871.1,1,5,1.1,5,COD,East,Platinum,4,23627.54,0
+CUST0070,52,Books,37123.75,5,30,2.3,10,Net Banking,Central,Silver,27,129933.12,1
+CUST0071,52,Books,28741.91,5,25,3.5,5,Net Banking,East,Silver,19,107782.16,1
+CUST0072,53,Books,49884.09,3,15,1.6,10,Debit Card,North,Gold,28,127204.43,1
+CUST0073,35,Clothing,37668.68,2,25,3.8,5,UPI,Central,Regular,6,56503.02,0
+CUST0074,56,Beauty,35406.63,4,15,4.0,3,COD,South,Silver,23,120382.54,1
+CUST0075,49,Books,38971.88,3,5,4.9,7,Debit Card,North,Regular,20,111069.86,1
+CUST0076,41,Sports,7326.77,5,15,1.8,6,Net Banking,West,Silver,9,31138.77,0
+CUST0077,40,Clothing,10385.32,4,20,4.3,4,Debit Card,East,Platinum,13,33233.02,0
+CUST0078,49,Clothing,35759.39,5,20,3.1,2,UPI,North,Gold,13,143037.56,1
+CUST0079,54,Beauty,24799.28,4,20,2.5,9,COD,North,Regular,4,79357.7,1
+CUST0080,29,Clothing,37779.84,2,30,1.5,1,UPI,Central,Gold,17,52891.78,0
+CUST0081,30,Clothing,5324.22,3,30,3.9,4,Credit Card,Central,Regular,23,11180.86,0
+CUST0082,40,Books,26915.77,4,0,1.9,1,COD,Central,Regular,13,107663.08,1
+CUST0083,42,Beauty,19064.31,1,30,2.5,6,UPI,West,Regular,1,13345.02,0
+CUST0084,52,Books,22957.61,1,5,1.3,4,Net Banking,Central,Regular,25,21809.73,0
+CUST0085,58,Books,30276.1,4,25,4.2,5,COD,North,Silver,11,90828.3,1
+CUST0086,47,Beauty,25212.96,4,25,4.1,5,COD,Central,Silver,21,75638.88,1
+CUST0087,34,Electronics,27084.06,4,0,3.9,9,Debit Card,South,Platinum,23,108336.24,1
+CUST0088,37,Books,24419.6,1,30,2.2,1,Net Banking,Central,Silver,5,17093.72,0
+CUST0089,42,Sports,20564.97,1,15,1.7,2,Credit Card,West,Silver,3,17480.22,0
+CUST0090,39,Sports,38638.72,4,0,3.6,6,UPI,South,Regular,12,154554.88,1
+CUST0091,30,Clothing,806.71,5,15,3.0,5,Debit Card,North,Regular,3,3428.52,0
+CUST0092,36,Sports,30001.45,5,15,1.7,7,UPI,North,Silver,21,127506.16,1
+CUST0093,53,Clothing,28361.32,2,10,3.7,3,Credit Card,East,Regular,13,51050.38,0
+CUST0094,29,Electronics,35864.72,3,25,5.0,3,Credit Card,South,Gold,30,80695.62,1
+CUST0095,58,Beauty,30030.66,5,20,4.0,10,COD,East,Regular,15,120122.64,1
+CUST0096,36,Beauty,41373.58,1,30,4.0,2,Credit Card,South,Regular,28,28961.51,0
+CUST0097,29,Beauty,47960.92,5,15,4.8,3,UPI,South,Regular,3,203833.91,1
+CUST0098,26,Sports,17256.71,2,10,1.8,10,Net Banking,West,Regular,23,31062.08,0
+CUST0099,24,Electronics,11521.08,2,25,3.3,1,Net Banking,East,Regular,24,17281.62,0
+CUST0100,45,Sports,21294.12,3,20,4.9,5,COD,West,Gold,0,51105.89,0
+CUST0101,31,Sports,14537.89,5,15,1.7,5,UPI,South,Regular,12,61786.03,0
+CUST0102,48,Electronics,30823.52,1,15,3.8,7,UPI,North,Silver,3,26199.99,0
+CUST0103,36,Electronics,45609.25,1,0,3.3,4,Credit Card,South,Regular,19,45609.25,0
+CUST0104,64,Electronics,7126.99,4,0,3.3,3,UPI,West,Regular,17,28507.96,0
+CUST0105,33,Electronics,5218.57,1,25,3.8,1,Debit Card,East,Regular,5,3913.93,0
+CUST0106,22,Beauty,12948.57,3,20,4.7,8,Credit Card,East,Gold,2,31076.57,0
+CUST0107,52,Home & Kitchen,36358.56,3,15,4.1,3,Debit Card,West,Regular,22,92714.33,1
+CUST0108,29,Home & Kitchen,29728.55,1,25,1.2,2,COD,East,Gold,12,22296.41,0
+CUST0109,42,Electronics,5289.19,1,25,4.4,4,Net Banking,Central,Regular,26,3966.89,0
+CUST0110,38,Home & Kitchen,45952.78,4,5,1.9,3,COD,North,Gold,15,174620.56,1
+CUST0111,53,Home & Kitchen,39545.21,1,30,2.5,1,Net Banking,North,Regular,26,27681.65,0
+CUST0112,40,Electronics,1345.53,4,0,2.8,3,COD,North,Silver,4,5382.12,0
+CUST0113,33,Home & Kitchen,32637.09,4,20,2.9,2,UPI,East,Silver,3,104438.69,1
+CUST0114,56,Sports,38607.08,1,15,2.7,8,Debit Card,East,Platinum,20,32816.02,0
+CUST0115,62,Clothing,18845.88,2,25,4.7,6,Net Banking,South,Regular,7,28268.82,0
+CUST0116,59,Clothing,3631.29,2,15,3.8,9,Credit Card,South,Regular,18,6173.19,0
+CUST0117,56,Electronics,4049.59,4,5,3.5,8,Debit Card,North,Regular,13,15388.44,0
+CUST0118,31,Beauty,5390.5,1,20,1.2,10,Credit Card,Central,Gold,6,4312.4,0
+CUST0119,48,Electronics,42052.89,2,25,4.6,3,Debit Card,South,Silver,30,63079.34,0
+CUST0120,22,Beauty,45551.17,1,15,4.6,5,Debit Card,South,Gold,13,38718.49,0
+CUST0121,52,Clothing,6314.98,1,0,4.1,7,COD,East,Regular,5,6314.98,0
+CUST0122,40,Electronics,11947.12,1,30,1.0,5,Net Banking,Central,Regular,11,8362.98,0
+CUST0123,46,Books,8441.92,5,5,1.2,8,Net Banking,North,Regular,15,40099.12,0
+CUST0124,60,Sports,9477.78,1,20,1.9,5,Debit Card,South,Platinum,16,7582.22,0
+CUST0125,28,Home & Kitchen,41906.04,5,5,1.5,1,UPI,Central,Silver,12,199053.69,1
+CUST0126,35,Beauty,16739.89,4,0,2.6,5,UPI,Central,Platinum,22,66959.56,0
+CUST0127,64,Books,15708.92,2,20,4.7,4,Credit Card,North,Regular,13,25134.27,0
+CUST0128,29,Home & Kitchen,11523.3,2,5,2.9,6,Credit Card,Central,Silver,28,21894.27,0
+CUST0129,26,Home & Kitchen,30472.14,2,10,1.1,3,COD,Central,Silver,6,54849.85,0
+CUST0130,27,Electronics,19088.42,2,0,2.1,5,Debit Card,Central,Regular,13,38176.84,0
+CUST0131,61,Home & Kitchen,37262.63,2,0,1.2,2,Credit Card,South,Gold,14,74525.26,1
+CUST0132,34,Sports,10436.87,2,0,1.1,6,Credit Card,North,Platinum,11,20873.74,0
+CUST0133,55,Books,39430.94,2,10,2.1,6,Debit Card,Central,Gold,16,70975.69,1
+CUST0134,24,Home & Kitchen,30264.33,4,10,2.1,5,COD,Central,Gold,8,108951.59,1
+CUST0135,63,Electronics,5889.51,1,15,4.1,6,Credit Card,South,Regular,21,5006.08,0
+CUST0136,30,Sports,20841.33,3,25,4.9,7,COD,North,Regular,14,46892.99,0
+CUST0137,57,Clothing,43202.2,5,30,2.5,5,Net Banking,East,Platinum,11,151207.7,1
+CUST0138,59,Books,46162.42,3,5,2.7,1,COD,South,Regular,1,131562.9,1
+CUST0139,26,Home & Kitchen,23390.87,3,15,4.4,8,UPI,North,Gold,4,59646.72,0
+CUST0140,44,Electronics,24144.68,1,5,2.1,4,UPI,Central,Gold,12,22937.45,0
+CUST0141,19,Clothing,45938.05,1,30,1.6,9,COD,North,Silver,26,32156.64,0
+CUST0142,22,Clothing,29435.0,1,25,4.4,10,UPI,North,Platinum,19,22076.25,0
+CUST0143,46,Beauty,1834.76,2,10,1.2,6,Net Banking,North,Regular,22,3302.57,0
+CUST0144,54,Sports,45653.92,4,25,3.5,1,Debit Card,East,Regular,7,136961.76,1
+CUST0145,55,Home & Kitchen,12560.68,2,10,3.2,3,UPI,North,Regular,26,22609.22,0
+CUST0146,36,Electronics,28965.07,4,30,2.4,3,UPI,East,Regular,13,81102.2,1
+CUST0147,25,Beauty,8441.56,4,25,2.3,10,COD,Central,Regular,14,25324.68,0
+CUST0148,62,Sports,1886.18,3,15,4.1,4,Net Banking,East,Regular,10,4809.76,0
+CUST0149,18,Beauty,15710.36,3,20,1.3,6,Debit Card,Central,Gold,0,37704.86,0
+CUST0150,39,Books,39067.69,4,15,1.9,7,COD,Central,Platinum,20,132830.15,1
+CUST0151,34,Sports,14022.84,4,5,3.9,10,COD,East,Regular,30,53286.79,0
+CUST0152,24,Sports,11159.84,2,15,3.2,4,Net Banking,South,Regular,2,18971.73,0
+CUST0153,42,Home & Kitchen,10790.5,2,30,1.5,6,Debit Card,West,Platinum,16,15106.7,0
+CUST0154,62,Sports,25854.65,3,0,4.5,1,Net Banking,North,Regular,27,77563.95,1
+CUST0155,21,Beauty,48780.96,1,5,2.6,8,Debit Card,West,Regular,18,46341.91,0
+CUST0156,53,Sports,23056.65,4,25,4.3,7,Net Banking,North,Regular,13,69169.95,1
+CUST0157,23,Home & Kitchen,27952.81,2,5,4.2,9,COD,North,Silver,21,53110.34,0
+CUST0158,48,Home & Kitchen,43058.47,3,20,3.5,3,COD,Central,Regular,29,103340.33,1
+CUST0159,36,Books,26845.47,2,10,3.0,2,Credit Card,North,Platinum,22,48321.85,0
+CUST0160,61,Beauty,9385.25,4,25,4.9,1,UPI,North,Regular,7,28155.75,0
+CUST0161,56,Clothing,15118.88,4,5,1.6,3,Net Banking,East,Silver,12,57451.74,0
+CUST0162,44,Clothing,15633.86,5,25,3.9,5,Credit Card,West,Regular,26,58626.98,0
+CUST0163,27,Sports,19985.44,1,25,1.8,2,UPI,East,Silver,19,14989.08,0
+CUST0164,43,Books,21453.09,5,25,2.4,3,Net Banking,North,Silver,2,80449.09,1
+CUST0165,36,Electronics,40028.14,3,10,2.2,4,Debit Card,Central,Gold,4,108075.98,1
+CUST0166,56,Sports,17598.47,2,30,4.8,7,UPI,East,Gold,8,24637.86,0
+CUST0167,20,Books,23516.95,3,15,4.9,3,COD,East,Silver,28,59968.22,0
+CUST0168,62,Beauty,31322.8,4,25,1.7,9,Credit Card,South,Platinum,5,93968.4,1
+CUST0169,30,Beauty,19009.75,5,0,1.1,8,UPI,North,Gold,30,95048.75,1
+CUST0170,45,Beauty,41859.93,5,30,3.9,4,UPI,Central,Gold,24,146509.75,1
+CUST0171,37,Beauty,29454.19,5,20,2.7,1,COD,East,Regular,30,117816.76,1
+CUST0172,45,Beauty,14842.43,3,10,1.4,1,Net Banking,East,Regular,21,40074.56,0
+CUST0173,25,Books,35759.15,4,5,3.7,1,Debit Card,Central,Regular,1,135884.77,1
+CUST0174,58,Books,26475.86,2,10,3.2,1,COD,North,Silver,12,47656.55,0
+CUST0175,56,Home & Kitchen,26814.9,2,5,4.9,8,Debit Card,South,Regular,4,50948.31,0
+CUST0176,18,Clothing,24157.18,3,10,1.9,3,Net Banking,East,Regular,27,65224.39,0
+CUST0177,20,Beauty,24950.2,5,5,2.6,6,UPI,South,Gold,26,118513.45,1
+CUST0178,30,Electronics,38313.74,1,25,3.2,3,Debit Card,West,Gold,24,28735.3,0
+CUST0179,45,Books,5327.48,3,15,4.2,5,Credit Card,North,Platinum,7,13585.07,0
+CUST0180,42,Electronics,16850.27,3,5,3.2,7,Credit Card,West,Regular,22,48023.27,0
+CUST0181,50,Electronics,3959.07,4,5,3.5,2,COD,West,Silver,0,15044.47,0
+CUST0182,55,Electronics,37710.66,2,0,1.9,6,Net Banking,West,Regular,19,75421.32,1
+CUST0183,23,Home & Kitchen,13759.63,3,5,4.4,6,COD,North,Regular,11,39214.95,0
+CUST0184,61,Books,44891.03,3,0,2.7,3,COD,North,Regular,22,134673.09,1
+CUST0185,62,Electronics,26422.61,5,20,1.6,6,COD,Central,Regular,10,105690.44,1
+CUST0186,49,Beauty,40076.34,5,25,3.7,10,Credit Card,South,Regular,6,150286.28,1
+CUST0187,62,Sports,48949.79,1,0,1.9,10,Credit Card,South,Gold,14,48949.79,0
+CUST0188,64,Electronics,42020.49,4,15,1.4,5,COD,Central,Regular,21,142869.67,1
+CUST0189,38,Home & Kitchen,43375.29,1,30,4.4,2,Credit Card,Central,Gold,23,30362.7,0
+CUST0190,33,Books,20516.63,5,25,2.8,9,Net Banking,West,Silver,10,76937.36,1
+CUST0191,38,Home & Kitchen,27674.79,2,0,4.0,8,COD,Central,Regular,28,55349.58,0
+CUST0192,28,Electronics,12842.65,5,25,2.2,3,Credit Card,East,Silver,21,48159.94,0
+CUST0193,54,Books,9965.43,4,25,4.1,8,Debit Card,South,Regular,25,29896.29,0
+CUST0194,53,Sports,25373.29,5,25,1.4,9,COD,Central,Silver,15,95149.84,1
+CUST0195,52,Electronics,29832.44,4,20,2.4,3,COD,East,Regular,2,95463.81,1
+CUST0196,36,Home & Kitchen,17094.71,4,15,4.9,3,Net Banking,East,Regular,19,58122.01,0
+CUST0197,37,Clothing,28557.29,4,10,4.2,2,UPI,East,Regular,13,102806.24,1
+CUST0198,35,Beauty,44394.53,4,10,3.0,8,UPI,East,Silver,2,159820.31,1
+CUST0199,64,Home & Kitchen,27923.73,4,0,2.4,10,Net Banking,West,Platinum,0,111694.92,1
+CUST0200,58,Books,36095.49,2,25,4.5,1,Net Banking,East,Regular,30,54143.24,0
+CUST0201,31,Electronics,40303.69,1,0,3.2,8,Net Banking,West,Gold,25,40303.69,0
+CUST0202,32,Beauty,49437.69,3,20,4.0,7,UPI,West,Silver,20,118650.46,1
+CUST0203,48,Electronics,30238.23,1,20,4.0,7,Net Banking,East,Platinum,14,24190.58,0
+CUST0204,18,Books,40380.14,4,5,1.1,3,Credit Card,South,Gold,0,153444.53,1
+CUST0205,20,Electronics,48138.94,2,20,1.5,1,COD,East,Silver,16,77022.3,1
+CUST0206,33,Clothing,47230.6,5,5,3.6,4,COD,East,Silver,1,224345.35,1
+CUST0207,40,Beauty,7224.88,2,15,1.6,9,Debit Card,East,Gold,28,12282.3,0
+CUST0208,28,Beauty,20437.34,4,0,2.0,5,Debit Card,South,Regular,19,81749.36,1
+CUST0209,29,Books,16333.71,2,30,4.8,1,COD,North,Regular,5,22867.19,0
+CUST0210,27,Clothing,4527.87,2,15,3.2,5,Credit Card,North,Regular,7,7697.38,0
+CUST0211,49,Home & Kitchen,31734.39,4,20,4.0,8,UPI,West,Gold,28,101550.05,1
+CUST0212,33,Electronics,36847.05,2,15,3.2,8,UPI,West,Gold,15,62639.98,0
+CUST0213,25,Sports,42435.78,3,15,3.2,5,Credit Card,South,Regular,18,108211.24,1
+CUST0214,55,Electronics,6313.29,3,15,1.4,9,UPI,Central,Silver,0,16098.89,0
+CUST0215,29,Electronics,43845.91,2,20,2.4,1,Net Banking,North,Silver,2,70153.46,1
+CUST0216,41,Home & Kitchen,32216.69,5,30,2.1,4,COD,West,Regular,27,112758.41,1
+CUST0217,45,Electronics,35255.52,4,25,2.6,3,COD,North,Platinum,2,105766.56,1
+CUST0218,25,Clothing,45548.08,3,15,4.2,2,Credit Card,South,Regular,4,116147.6,1
+CUST0219,45,Clothing,31312.11,5,5,2.5,8,UPI,South,Regular,26,148732.52,1
+CUST0220,53,Beauty,16925.12,2,20,2.8,7,Debit Card,Central,Silver,11,27080.19,0
+CUST0221,43,Books,41289.35,5,15,2.6,9,Debit Card,Central,Gold,11,175479.74,1
+CUST0222,25,Sports,18279.35,1,30,1.4,2,UPI,South,Regular,19,12795.54,0
+CUST0223,45,Electronics,1903.56,3,25,2.8,4,Debit Card,West,Silver,12,4283.01,0
+CUST0224,45,Electronics,41565.59,2,20,1.8,6,Credit Card,North,Silver,19,66504.94,0
+CUST0225,54,Home & Kitchen,17389.57,4,10,1.7,3,Credit Card,East,Regular,8,62602.45,0
+CUST0226,58,Books,38735.96,2,25,1.4,8,UPI,Central,Regular,6,58103.94,0
+CUST0227,53,Clothing,18264.34,4,5,2.4,3,Debit Card,East,Silver,3,69404.49,1
+CUST0228,44,Sports,43080.19,2,15,4.0,2,Credit Card,West,Regular,18,73236.32,1
+CUST0229,34,Beauty,11130.62,5,30,2.1,3,Credit Card,Central,Platinum,21,38957.17,0
+CUST0230,26,Clothing,48731.45,5,10,2.2,6,Net Banking,East,Gold,18,219291.52,1
+CUST0231,50,Books,39030.99,5,30,3.6,2,Net Banking,West,Platinum,5,136608.46,1
+CUST0232,37,Beauty,5888.05,1,10,1.8,8,Credit Card,North,Regular,26,5299.24,0
+CUST0233,30,Home & Kitchen,28374.68,4,20,4.6,1,UPI,West,Platinum,12,90798.98,1
+CUST0234,45,Home & Kitchen,49270.29,5,10,3.1,7,COD,Central,Regular,10,221716.31,1
+CUST0235,46,Electronics,23658.06,1,5,2.8,2,COD,South,Regular,12,22475.16,0
+CUST0236,30,Books,9267.94,4,5,3.2,10,Credit Card,North,Regular,12,35218.17,0
+CUST0237,63,Sports,24340.96,2,0,1.7,6,Credit Card,East,Regular,27,48681.92,0
+CUST0238,52,Beauty,25719.39,1,5,3.5,2,Credit Card,Central,Silver,24,24433.42,0
+CUST0239,23,Clothing,37135.01,3,25,2.5,2,UPI,South,Silver,21,83553.77,1
+CUST0240,35,Books,35001.52,1,10,4.6,10,Net Banking,West,Regular,27,31501.37,0
+CUST0241,22,Books,20245.99,1,5,1.7,8,Credit Card,South,Silver,19,19233.69,0
+CUST0242,64,Home & Kitchen,11056.55,4,20,3.0,2,Credit Card,Central,Regular,14,35380.96,0
+CUST0243,42,Electronics,32322.7,2,30,3.4,7,Debit Card,Central,Silver,20,45251.78,0
+CUST0244,19,Electronics,21199.86,3,30,1.1,3,UPI,South,Regular,12,44519.71,0
+CUST0245,27,Beauty,6786.36,5,0,2.5,8,Credit Card,West,Gold,21,33931.8,0
+CUST0246,47,Home & Kitchen,45047.5,5,30,3.9,7,Debit Card,South,Gold,10,157666.25,1
+CUST0247,62,Books,34621.85,1,10,4.3,8,COD,Central,Silver,18,31159.66,0
+CUST0248,22,Sports,34221.56,4,0,2.3,7,Credit Card,Central,Regular,7,136886.24,1
+CUST0249,50,Home & Kitchen,41163.68,4,10,4.2,6,Credit Card,East,Regular,19,148189.25,1
+CUST0250,18,Beauty,26576.15,5,20,4.9,7,Debit Card,East,Gold,7,106304.6,1
+CUST0251,35,Beauty,40788.71,3,0,4.4,5,UPI,North,Regular,9,122366.13,1
+CUST0252,49,Home & Kitchen,25003.92,2,15,1.5,7,Credit Card,Central,Regular,25,42506.66,0
+CUST0253,64,Beauty,3544.33,3,25,4.0,1,COD,East,Regular,15,7974.74,0
+CUST0254,28,Home & Kitchen,20380.35,2,25,2.3,1,Credit Card,South,Silver,18,30570.52,0
+CUST0255,38,Clothing,24972.75,5,10,5.0,9,COD,West,Silver,25,112377.38,1
+CUST0256,43,Home & Kitchen,36065.09,2,30,2.9,5,Net Banking,South,Gold,22,50491.13,0
+CUST0257,42,Home & Kitchen,5506.62,4,15,1.5,5,Net Banking,West,Regular,10,18722.51,0
+CUST0258,39,Beauty,7171.92,1,0,3.9,3,COD,East,Regular,12,7171.92,0
+CUST0259,44,Beauty,13330.45,1,15,2.3,5,UPI,North,Gold,27,11330.88,0
+CUST0260,30,Electronics,13470.62,5,15,5.0,3,Credit Card,South,Gold,8,57250.14,0
+CUST0261,50,Electronics,36661.79,4,30,4.9,9,Credit Card,South,Regular,19,102653.01,1
+CUST0262,51,Clothing,12685.39,3,0,3.6,9,Net Banking,South,Silver,23,38056.17,0
+CUST0263,58,Electronics,31727.28,4,20,1.5,6,COD,West,Regular,18,101527.3,1
+CUST0264,52,Home & Kitchen,24813.84,1,30,3.7,1,Credit Card,East,Platinum,15,17369.69,0
+CUST0265,18,Beauty,28749.06,1,15,1.4,7,Credit Card,South,Regular,6,24436.7,0
+CUST0266,38,Electronics,41936.73,4,15,1.1,7,UPI,South,Platinum,18,142584.88,1
+CUST0267,23,Electronics,20337.2,4,20,4.3,10,Debit Card,North,Silver,11,65079.04,0
+CUST0268,45,Clothing,38590.39,1,15,1.8,10,Net Banking,North,Silver,14,32801.83,0
+CUST0269,34,Books,21216.4,3,15,2.5,4,Net Banking,East,Regular,30,54101.82,0
+CUST0270,22,Clothing,17821.79,5,15,4.9,8,Debit Card,East,Silver,22,75742.61,1
+CUST0271,48,Home & Kitchen,47938.63,5,25,2.3,6,Credit Card,Central,Regular,13,179769.86,1
+CUST0272,22,Beauty,9380.67,4,30,2.2,4,UPI,North,Regular,10,26265.88,0
+CUST0273,55,Clothing,4697.78,5,5,4.7,4,UPI,Central,Silver,25,22314.46,0
+CUST0274,20,Electronics,38594.1,1,30,1.4,2,Net Banking,West,Platinum,9,27015.87,0
+CUST0275,40,Beauty,3597.84,1,20,4.0,2,UPI,Central,Silver,26,2878.27,0
+CUST0276,54,Beauty,41885.53,4,15,5.0,4,Debit Card,South,Gold,10,142410.8,1
+CUST0277,54,Electronics,21971.23,4,30,4.6,5,Credit Card,Central,Regular,5,61519.44,0
+CUST0278,27,Clothing,45791.58,4,25,3.6,8,Debit Card,East,Regular,1,137374.74,1
+CUST0279,27,Electronics,36131.34,3,20,2.3,6,COD,West,Regular,10,86715.22,1
+CUST0280,36,Books,30597.15,5,10,2.0,4,Net Banking,South,Silver,18,137687.18,1
+CUST0281,34,Beauty,47474.48,4,30,4.3,7,UPI,Central,Platinum,5,132928.54,1
+CUST0282,38,Sports,19952.14,2,10,4.5,8,COD,West,Silver,13,35913.85,0
+CUST0283,31,Sports,47712.53,2,15,3.1,2,UPI,West,Regular,19,81111.3,1
+CUST0284,26,Home & Kitchen,6922.06,1,25,2.0,7,Credit Card,South,Regular,5,5191.54,0
+CUST0285,63,Electronics,24290.0,5,25,1.5,2,Credit Card,Central,Silver,16,91087.5,1
+CUST0286,18,Electronics,13640.58,4,30,1.3,2,Credit Card,West,Regular,9,38193.62,0
+CUST0287,62,Home & Kitchen,27083.17,2,20,3.9,8,UPI,West,Gold,27,43333.07,0
+CUST0288,30,Home & Kitchen,8267.29,5,20,2.7,2,COD,North,Gold,0,33069.16,0
+CUST0289,21,Home & Kitchen,42107.18,1,25,4.6,9,Credit Card,West,Silver,2,31580.38,0
+CUST0290,18,Beauty,42350.11,3,20,4.0,1,COD,North,Regular,7,101640.26,1
+CUST0291,57,Books,47769.77,5,25,1.8,9,UPI,Central,Regular,7,179136.64,1
+CUST0292,49,Electronics,7901.67,5,30,3.5,1,COD,Central,Regular,26,27655.84,0
+CUST0293,51,Beauty,31240.96,3,5,2.7,10,UPI,Central,Regular,19,89036.74,1
+CUST0294,45,Home & Kitchen,23816.02,5,25,3.3,10,UPI,East,Regular,21,89310.08,1
+CUST0295,48,Electronics,17349.31,1,10,4.0,2,Net Banking,Central,Silver,14,15614.38,0
+CUST0296,25,Beauty,17705.7,1,20,4.2,6,UPI,West,Silver,23,14164.56,0
+CUST0297,56,Books,20756.12,3,25,4.4,6,UPI,South,Regular,6,46701.27,0
+CUST0298,43,Beauty,35304.29,4,25,2.0,1,Debit Card,North,Regular,10,105912.87,1
+CUST0299,51,Books,29993.65,2,30,1.1,7,Credit Card,East,Regular,6,41991.11,0
+CUST0300,20,Home & Kitchen,23091.14,4,20,4.0,8,Net Banking,Central,Regular,28,73891.65,1
+CUST0301,29,Books,3980.48,5,5,1.4,2,Net Banking,Central,Gold,3,18907.28,0
+CUST0302,18,Electronics,4071.71,2,30,2.3,8,Net Banking,South,Regular,24,5700.39,0
+CUST0303,61,Home & Kitchen,315.5,3,5,1.0,9,Debit Card,South,Regular,11,899.18,0
+CUST0304,22,Electronics,48390.43,3,30,3.7,6,UPI,East,Regular,25,101619.9,1
+CUST0305,47,Sports,460.64,2,20,1.7,5,Credit Card,North,Gold,5,737.02,0
+CUST0306,47,Clothing,5333.07,1,0,3.6,9,COD,Central,Silver,13,5333.07,0
+CUST0307,34,Books,15865.91,2,20,5.0,9,UPI,East,Regular,11,25385.46,0
+CUST0308,64,Clothing,40409.03,5,20,1.3,1,Debit Card,West,Silver,10,161636.12,1
+CUST0309,40,Clothing,48111.52,1,5,1.3,3,UPI,West,Gold,18,45705.94,0
+CUST0310,32,Books,39541.68,3,5,2.4,9,UPI,East,Platinum,20,112693.79,1
+CUST0311,54,Home & Kitchen,34588.9,2,20,4.5,2,Debit Card,Central,Regular,4,55342.24,0
+CUST0312,38,Sports,26159.77,4,20,1.9,4,Net Banking,East,Gold,13,83711.26,1
+CUST0313,31,Electronics,4516.92,4,20,2.4,4,Net Banking,Central,Platinum,20,14454.14,0
+CUST0314,19,Beauty,47915.91,5,5,1.3,2,Credit Card,South,Platinum,23,227600.57,1
+CUST0315,28,Electronics,37966.94,4,20,4.1,3,Credit Card,East,Silver,15,121494.21,1
+CUST0316,56,Beauty,32018.68,2,20,2.6,3,Net Banking,Central,Silver,24,51229.89,0
+CUST0317,55,Electronics,37998.99,2,15,4.0,1,COD,East,Regular,12,64598.28,0
+CUST0318,51,Books,36259.35,4,0,4.6,6,UPI,East,Gold,24,145037.4,1
+CUST0319,55,Sports,31933.13,2,10,1.9,8,COD,Central,Silver,28,57479.63,0
+CUST0320,51,Beauty,49031.72,5,0,4.2,3,UPI,Central,Silver,21,245158.6,1
+CUST0321,35,Home & Kitchen,45186.52,1,15,1.2,5,Net Banking,North,Regular,21,38408.54,0
+CUST0322,47,Electronics,32402.91,5,10,4.6,1,Credit Card,East,Gold,24,145813.1,1
+CUST0323,32,Electronics,34719.13,5,30,3.6,10,Credit Card,West,Gold,19,121516.95,1
+CUST0324,44,Beauty,2768.47,2,20,4.5,7,COD,East,Regular,21,4429.55,0
+CUST0325,51,Home & Kitchen,33560.89,1,15,1.0,10,Credit Card,East,Gold,3,28526.76,0
+CUST0326,55,Home & Kitchen,2398.44,2,30,1.7,1,Net Banking,Central,Silver,10,3357.82,0
+CUST0327,50,Books,29494.54,3,20,2.6,9,COD,East,Gold,16,70786.9,1
+CUST0328,41,Books,49966.8,2,5,2.5,8,UPI,East,Regular,6,94936.92,1
+CUST0329,32,Books,27878.17,2,25,1.9,7,Credit Card,West,Regular,13,41817.25,0
+CUST0330,47,Books,23764.86,2,15,2.5,10,Debit Card,Central,Platinum,25,40400.26,0
+CUST0331,59,Books,15779.17,1,5,1.5,7,Credit Card,East,Regular,10,14990.21,0
+CUST0332,34,Books,6201.02,2,15,2.7,5,UPI,South,Gold,27,10541.73,0
+CUST0333,22,Sports,36603.98,1,15,4.2,5,COD,North,Silver,21,31113.38,0
+CUST0334,46,Home & Kitchen,9790.43,4,5,2.9,5,UPI,West,Silver,8,37203.63,0
+CUST0335,21,Books,5940.04,3,10,1.1,1,Debit Card,East,Regular,22,16038.11,0
+CUST0336,27,Home & Kitchen,21202.78,1,0,2.7,8,Net Banking,South,Silver,12,21202.78,0
+CUST0337,34,Home & Kitchen,39807.02,4,20,1.1,1,Credit Card,East,Regular,22,127382.46,1
+CUST0338,27,Clothing,37303.21,1,15,4.9,4,COD,East,Regular,17,31707.73,0
+CUST0339,34,Sports,2932.15,1,20,1.5,9,Net Banking,Central,Regular,27,2345.72,0
+CUST0340,37,Books,22865.16,3,25,3.8,9,UPI,Central,Regular,10,51446.61,0
+CUST0341,41,Electronics,26216.24,5,5,4.9,5,COD,Central,Platinum,14,124527.14,1
+CUST0342,22,Beauty,32297.42,5,20,4.3,4,Net Banking,South,Platinum,24,129189.68,1
+CUST0343,51,Electronics,32577.33,1,5,3.8,3,COD,East,Regular,25,30948.46,0
+CUST0344,23,Sports,18360.92,2,20,4.4,3,Debit Card,North,Gold,24,29377.47,0
+CUST0345,19,Beauty,28120.72,4,0,4.9,5,Debit Card,West,Regular,21,112482.88,1
+CUST0346,30,Sports,24155.88,2,0,3.5,10,Credit Card,Central,Silver,28,48311.76,0
+CUST0347,60,Home & Kitchen,44271.92,2,0,3.2,1,Credit Card,Central,Gold,18,88543.84,1
+CUST0348,60,Beauty,26606.2,1,0,3.5,5,Debit Card,East,Platinum,0,26606.2,0
+CUST0349,28,Home & Kitchen,22162.4,1,0,3.1,6,COD,East,Regular,3,22162.4,0
+CUST0350,64,Electronics,20342.38,1,0,3.5,7,Debit Card,South,Gold,13,20342.38,0
+CUST0351,40,Electronics,28705.9,1,5,2.8,9,Credit Card,South,Regular,13,27270.6,0
+CUST0352,33,Beauty,40237.05,5,15,1.9,3,Debit Card,Central,Platinum,2,171007.46,1
+CUST0353,48,Beauty,27011.39,1,20,1.5,2,Debit Card,East,Regular,29,21609.11,0
+CUST0354,28,Books,33149.43,5,0,1.3,3,COD,North,Silver,27,165747.15,1
+CUST0355,33,Sports,36944.22,5,5,2.1,9,Net Banking,West,Silver,16,175485.04,1
+CUST0356,25,Books,26103.37,1,5,1.2,7,Credit Card,East,Silver,2,24798.2,0
+CUST0357,21,Sports,21454.49,3,5,3.3,9,COD,East,Regular,15,61145.3,0
+CUST0358,57,Books,43856.94,4,15,2.1,2,Debit Card,South,Platinum,13,149113.6,1
+CUST0359,21,Home & Kitchen,20990.8,2,20,4.3,5,Debit Card,West,Regular,29,33585.28,0
+CUST0360,42,Beauty,23203.75,5,15,1.3,4,Net Banking,Central,Silver,19,98615.94,1
+CUST0361,20,Electronics,49518.0,4,10,1.9,2,Credit Card,East,Regular,28,178264.8,1
+CUST0362,49,Sports,210.83,3,30,3.9,9,Credit Card,Central,Regular,12,442.74,0
+CUST0363,20,Sports,9435.55,2,5,3.4,9,UPI,East,Silver,14,17927.54,0
+CUST0364,44,Electronics,19320.4,2,10,1.3,6,Credit Card,Central,Regular,13,34776.72,0
+CUST0365,46,Books,46641.98,5,25,4.5,6,Net Banking,West,Regular,23,174907.42,1
+CUST0366,49,Sports,3686.48,1,0,4.5,8,UPI,South,Regular,24,3686.48,0
+CUST0367,36,Home & Kitchen,671.37,3,30,2.3,6,UPI,West,Regular,18,1409.88,0
+CUST0368,38,Beauty,2822.66,5,0,2.4,1,Debit Card,North,Gold,5,14113.3,0
+CUST0369,22,Electronics,4608.46,3,15,5.0,4,Debit Card,South,Gold,9,11751.57,0
+CUST0370,35,Beauty,2071.32,1,30,3.5,7,Credit Card,West,Regular,26,1449.92,0
+CUST0371,45,Sports,24092.11,1,20,3.1,2,UPI,North,Regular,14,19273.69,0
+CUST0372,59,Sports,29120.71,5,10,4.4,9,Debit Card,East,Regular,20,131043.2,1
+CUST0373,39,Electronics,13729.01,1,20,2.1,8,Net Banking,East,Regular,21,10983.21,0
+CUST0374,38,Home & Kitchen,20033.71,4,15,2.7,8,Debit Card,Central,Silver,19,68114.61,1
+CUST0375,23,Clothing,4765.63,2,0,2.1,7,Debit Card,South,Silver,25,9531.26,0
+CUST0376,18,Electronics,16950.25,5,30,4.2,4,UPI,East,Regular,5,59325.87,0
+CUST0377,22,Clothing,26220.46,3,20,3.3,2,UPI,South,Regular,22,62929.1,0
+CUST0378,58,Books,36666.14,4,20,3.6,3,COD,East,Regular,24,117331.65,1
+CUST0379,29,Clothing,365.65,5,0,2.0,6,Net Banking,Central,Gold,9,1828.25,0
+CUST0380,43,Home & Kitchen,23471.08,1,30,1.9,5,UPI,West,Platinum,6,16429.76,0
+CUST0381,63,Books,14989.74,1,10,3.0,8,Credit Card,Central,Regular,21,13490.77,0
+CUST0382,51,Clothing,42669.53,1,0,4.0,6,Net Banking,North,Regular,16,42669.53,0
+CUST0383,31,Books,35833.56,1,20,3.1,6,Net Banking,East,Gold,17,28666.85,0
+CUST0384,43,Clothing,29536.61,3,10,1.1,1,UPI,North,Platinum,16,79748.85,1
+CUST0385,62,Home & Kitchen,14006.83,4,10,4.5,4,Net Banking,North,Regular,8,50424.59,0
+CUST0386,44,Clothing,45533.89,2,0,1.3,5,UPI,South,Regular,9,91067.78,1
+CUST0387,26,Clothing,2445.01,3,20,4.8,3,Debit Card,East,Regular,9,5868.02,0
+CUST0388,43,Clothing,5650.49,3,15,1.1,9,COD,North,Silver,24,14408.75,0
+CUST0389,64,Electronics,19702.18,2,20,3.8,1,Debit Card,West,Regular,6,31523.49,0
+CUST0390,39,Electronics,6395.99,2,5,1.3,6,UPI,North,Regular,15,12152.38,0
+CUST0391,64,Electronics,47828.5,1,30,4.6,6,UPI,West,Silver,28,33479.95,0
+CUST0392,47,Home & Kitchen,39938.87,3,25,2.9,10,Debit Card,South,Regular,17,89862.46,1
+CUST0393,60,Books,13096.34,5,15,1.6,5,Credit Card,North,Gold,5,55659.44,0
+CUST0394,34,Sports,29509.0,2,10,2.4,5,Credit Card,Central,Regular,26,53116.2,0
+CUST0395,43,Clothing,49119.06,2,15,1.7,10,Credit Card,South,Regular,19,83502.4,1
+CUST0396,53,Clothing,44232.11,4,30,1.7,5,UPI,West,Silver,0,123849.91,1
+CUST0397,18,Home & Kitchen,30118.76,5,10,4.8,6,Net Banking,South,Regular,0,135534.42,1
+CUST0398,25,Clothing,45204.45,5,30,2.8,8,UPI,North,Platinum,11,158215.57,1
+CUST0399,52,Electronics,49460.41,2,10,4.2,2,Net Banking,East,Silver,20,89028.74,1
+CUST0400,32,Sports,37217.97,1,15,3.6,6,Debit Card,East,Regular,27,31635.27,0
+CUST0401,64,Beauty,3435.32,4,10,3.7,1,COD,West,Gold,1,12367.15,0
+CUST0402,39,Clothing,20197.7,5,10,1.5,4,Net Banking,West,Regular,3,90889.65,1
+CUST0403,31,Electronics,41922.72,2,5,1.9,10,Credit Card,East,Platinum,16,79653.17,1
+CUST0404,43,Beauty,11681.35,5,20,4.1,3,UPI,West,Regular,3,46725.4,0
+CUST0405,45,Sports,41565.0,4,20,4.9,9,Debit Card,South,Silver,10,133008.0,1
+CUST0406,40,Beauty,6191.87,4,25,2.1,3,Credit Card,Central,Regular,21,18575.61,0
+CUST0407,31,Electronics,2536.88,3,25,2.1,6,Debit Card,Central,Regular,25,5707.98,0
+CUST0408,41,Books,19326.71,2,5,2.9,1,COD,South,Gold,3,36720.75,0
+CUST0409,19,Books,2028.25,4,25,4.9,6,UPI,Central,Gold,0,6084.75,0
+CUST0410,62,Beauty,47871.06,3,30,2.1,4,UPI,North,Regular,6,100529.23,1
+CUST0411,43,Home & Kitchen,41344.04,3,15,2.6,8,COD,South,Regular,29,105427.3,1
+CUST0412,31,Beauty,40077.33,5,0,4.6,9,UPI,West,Gold,17,200386.65,1
+CUST0413,24,Clothing,31561.94,5,30,1.0,4,Net Banking,South,Platinum,8,110466.79,1
+CUST0414,20,Clothing,10971.94,3,0,1.2,10,Debit Card,East,Regular,28,32915.82,0
+CUST0415,64,Books,26008.37,5,0,3.4,10,Credit Card,West,Silver,2,130041.85,1
+CUST0416,40,Home & Kitchen,29943.25,4,5,4.6,6,COD,East,Regular,7,113784.35,1
+CUST0417,63,Electronics,26345.57,1,30,2.0,1,Net Banking,West,Gold,28,18441.9,0
+CUST0418,60,Clothing,13158.62,4,5,2.9,4,Credit Card,Central,Regular,23,50002.76,0
+CUST0419,64,Books,25858.35,3,10,2.8,7,Credit Card,South,Regular,18,69817.54,1
+CUST0420,62,Sports,24660.08,3,0,2.9,1,COD,North,Gold,3,73980.24,1
+CUST0421,35,Books,49816.52,4,15,3.5,8,Net Banking,West,Regular,17,169376.17,1
+CUST0422,55,Clothing,44891.32,5,25,2.9,10,Credit Card,West,Silver,19,168342.45,1
+CUST0423,52,Clothing,23275.36,5,15,2.8,6,Credit Card,East,Regular,26,98920.28,1
+CUST0424,32,Books,31221.28,3,25,2.9,5,Net Banking,Central,Regular,10,70247.88,1
+CUST0425,42,Electronics,37443.01,2,0,3.4,10,UPI,East,Regular,26,74886.02,1
+CUST0426,54,Beauty,1935.28,5,0,3.1,9,Credit Card,East,Silver,13,9676.4,0
+CUST0427,45,Clothing,44766.09,4,0,4.4,2,Debit Card,Central,Regular,24,179064.36,1
+CUST0428,27,Books,43033.32,5,5,1.2,5,Net Banking,North,Silver,17,204408.27,1
+CUST0429,56,Books,22979.12,4,30,4.3,6,Credit Card,East,Gold,27,64341.54,0
+CUST0430,34,Home & Kitchen,19679.25,3,25,4.4,7,COD,East,Gold,27,44278.31,0
+CUST0431,56,Beauty,13792.38,5,30,2.1,5,Debit Card,West,Regular,28,48273.33,0
+CUST0432,39,Sports,23937.51,4,5,2.9,9,Credit Card,Central,Regular,15,90962.54,1
+CUST0433,43,Electronics,2408.96,3,5,2.8,1,Debit Card,South,Regular,2,6865.54,0
+CUST0434,61,Sports,42638.24,2,20,1.9,7,Debit Card,North,Regular,14,68221.18,1
+CUST0435,42,Beauty,1963.03,4,15,2.6,10,UPI,North,Regular,26,6674.3,0
+CUST0436,34,Beauty,16585.76,2,15,1.2,7,Debit Card,Central,Silver,26,28195.79,0
+CUST0437,30,Beauty,46592.16,2,10,2.1,4,UPI,West,Regular,30,83865.89,1
+CUST0438,37,Sports,36812.59,1,5,4.3,9,Net Banking,West,Regular,3,34971.96,0
+CUST0439,42,Beauty,14212.27,5,25,2.1,5,UPI,Central,Regular,4,53296.01,0
+CUST0440,21,Books,12780.92,4,20,4.3,4,COD,West,Silver,16,40898.94,0
+CUST0441,27,Sports,452.09,2,20,3.1,7,Credit Card,North,Regular,6,723.34,0
+CUST0442,20,Beauty,34845.57,1,30,4.5,4,Net Banking,North,Silver,15,24391.9,0
+CUST0443,58,Books,2628.42,3,15,3.3,3,Net Banking,South,Regular,13,6702.47,0
+CUST0444,62,Home & Kitchen,26722.61,4,5,1.1,9,COD,Central,Gold,25,101545.92,1
+CUST0445,35,Beauty,48112.67,2,10,3.7,8,UPI,East,Gold,15,86602.81,1
+CUST0446,64,Sports,5650.55,5,5,1.2,1,Credit Card,East,Regular,6,26840.11,0
+CUST0447,53,Clothing,44744.1,1,30,2.8,7,UPI,South,Regular,8,31320.87,0
+CUST0448,64,Beauty,49574.47,2,0,4.7,9,Debit Card,South,Regular,3,99148.94,1
+CUST0449,39,Clothing,3262.55,5,5,1.7,8,UPI,West,Regular,29,15497.11,0
+CUST0450,51,Books,44167.73,2,30,2.6,8,Net Banking,South,Silver,29,61834.82,0
+CUST0451,64,Home & Kitchen,25899.74,4,0,3.9,6,Credit Card,South,Gold,21,103598.96,1
+CUST0452,25,Electronics,45343.38,4,0,4.5,4,UPI,East,Silver,10,181373.52,1
+CUST0453,57,Home & Kitchen,28650.68,4,10,3.7,8,Credit Card,West,Gold,1,103142.45,1
+CUST0454,61,Beauty,33172.18,1,25,2.0,3,Credit Card,South,Regular,11,24879.14,0
+CUST0455,36,Clothing,27279.19,4,15,3.7,9,Debit Card,South,Regular,11,92749.25,1
+CUST0456,59,Clothing,43250.75,5,5,2.2,2,Debit Card,West,Gold,29,205441.06,1
+CUST0457,58,Sports,36747.71,2,0,3.9,2,Net Banking,Central,Regular,3,73495.42,1
+CUST0458,54,Clothing,26157.76,3,5,4.8,7,COD,West,Silver,17,74549.62,1
+CUST0459,23,Sports,43433.41,5,25,3.9,10,Credit Card,East,Regular,25,162875.29,1
+CUST0460,43,Books,12414.22,5,15,4.5,4,COD,Central,Regular,20,52760.44,0
+CUST0461,51,Electronics,8034.56,4,25,1.0,10,Net Banking,North,Platinum,30,24103.68,0
+CUST0462,62,Beauty,8186.93,1,15,3.9,8,Credit Card,West,Regular,6,6958.89,0
+CUST0463,23,Sports,16832.64,2,20,4.3,9,Credit Card,East,Platinum,28,26932.22,0
+CUST0464,54,Electronics,12085.76,1,15,1.2,7,COD,Central,Platinum,0,10272.9,0
+CUST0465,50,Clothing,46517.5,2,10,4.5,5,UPI,West,Gold,30,83731.5,1
+CUST0466,39,Clothing,5469.54,2,25,2.0,8,Debit Card,South,Silver,25,8204.31,0
+CUST0467,38,Electronics,35008.74,1,0,3.7,4,UPI,West,Silver,25,35008.74,0
+CUST0468,23,Clothing,9622.23,5,20,4.2,2,COD,North,Gold,22,38488.92,0
+CUST0469,23,Books,44104.53,2,10,3.7,6,Debit Card,West,Regular,25,79388.15,1
+CUST0470,21,Books,48072.5,1,5,1.4,9,UPI,Central,Silver,12,45668.88,0
+CUST0471,47,Electronics,23379.41,2,25,3.4,1,Debit Card,Central,Silver,5,35069.12,0
+CUST0472,28,Sports,43976.76,3,30,3.2,10,Credit Card,West,Regular,5,92351.2,1
+CUST0473,47,Sports,455.23,5,30,4.6,7,UPI,Central,Regular,11,1593.3,0
+CUST0474,48,Electronics,41032.36,4,0,2.6,10,Debit Card,South,Regular,7,164129.44,1
+CUST0475,41,Sports,11584.53,2,15,2.3,9,Debit Card,West,Silver,23,19693.7,0
+CUST0476,26,Sports,45452.33,3,0,4.0,10,Debit Card,South,Gold,21,136356.99,1
+CUST0477,20,Books,254.78,4,30,2.7,9,UPI,South,Regular,18,713.38,0
+CUST0478,48,Sports,27896.85,4,5,3.6,10,Net Banking,East,Platinum,4,106008.03,1
+CUST0479,57,Home & Kitchen,37879.46,2,20,3.6,3,UPI,West,Silver,17,60607.14,0
+CUST0480,54,Beauty,13081.68,1,20,4.6,5,COD,Central,Gold,30,10465.34,0
+CUST0481,53,Clothing,9817.02,2,25,3.4,8,UPI,South,Silver,29,14725.53,0
+CUST0482,41,Home & Kitchen,4387.09,3,20,3.0,8,Debit Card,East,Gold,4,10529.02,0
+CUST0483,48,Sports,16455.39,4,25,1.6,4,Credit Card,West,Regular,29,49366.17,0
+CUST0484,23,Books,28079.25,2,25,1.5,1,UPI,West,Gold,24,42118.88,0
+CUST0485,19,Electronics,5968.02,1,25,1.6,1,UPI,North,Regular,9,4476.02,0
+CUST0486,37,Sports,18958.43,2,30,1.7,4,Debit Card,North,Gold,0,26541.8,0
+CUST0487,45,Books,650.81,5,30,3.6,6,Credit Card,South,Platinum,9,2277.83,0
+CUST0488,28,Beauty,40969.24,1,15,4.0,8,Credit Card,North,Regular,4,34823.85,0
+CUST0489,21,Sports,6595.75,3,10,3.1,6,COD,South,Regular,11,17808.53,0
+CUST0490,32,Electronics,14309.48,4,25,4.3,9,UPI,Central,Gold,21,42928.44,0
+CUST0491,23,Books,1116.7,2,25,5.0,9,Credit Card,South,Regular,29,1675.05,0
+CUST0492,47,Books,21724.59,1,10,4.3,2,Credit Card,North,Gold,26,19552.13,0
+CUST0493,55,Books,42037.05,5,0,3.8,10,Net Banking,Central,Regular,6,210185.25,1
+CUST0494,19,Beauty,19728.13,1,25,3.1,1,Net Banking,North,Regular,8,14796.1,0
+CUST0495,32,Sports,9137.97,5,15,2.8,2,Credit Card,South,Platinum,21,38836.37,0
+CUST0496,28,Beauty,37733.2,3,20,1.3,5,COD,East,Silver,20,90559.68,1
+CUST0497,25,Clothing,39481.59,4,20,2.6,4,Credit Card,West,Gold,11,126341.09,1
+CUST0498,43,Clothing,8851.92,3,5,4.6,4,Debit Card,North,Regular,22,25227.97,0
+CUST0499,62,Sports,38587.53,2,5,4.2,9,UPI,South,Silver,28,73316.31,1
+CUST0500,61,Beauty,47374.43,1,20,1.9,8,COD,Central,Silver,0,37899.54,0
