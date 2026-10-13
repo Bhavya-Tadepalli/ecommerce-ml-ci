@@ -34,3 +34,13 @@ jobs:
 
       - name: Run automated tests
         run: pytest -v
+        
+      - name: Upload ML artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: ecommerce-ml-artifacts
+          path: |
+            artifacts/ecommerce_pipeline.joblib
+            artifacts/metrics.json
+          retention-days: 7
+
