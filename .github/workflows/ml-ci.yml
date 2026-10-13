@@ -1,5 +1,5 @@
 
-name: Ecommerce ML CI and CD
+name: Ecommerce ML CI CD and Docker
 
 on:
   push:
@@ -47,3 +47,52 @@ jobs:
             artifacts/metrics.json
             app.py
           retention-days: 7
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Build Docker image
+        run: docker build -t ecommerce-ml-app:ci .
+
+      - name: Run Docker container
+        run: |
+          docker run -d \
+            --name ecommerce-container \
+            -p 5000:5000 \
+            ecommerce-ml-app:ci
+
+      - name: Wait for application
+        run: |
+          for i in {1..30}; do
+            if curl --fail http://localhost:5000/health; then
+              echo "Application is healthy"
+              exit 0
+            fi
+            sleep 2
+          done
+          docker logs ecommerce-container
+          exit 1
+
+      - name: Test prediction endpoint
+        run: |
+          curl --fail \
+            -X POST http://localhost:5000/predict \
+            -H "Content-Type: application/json" \
+            -d '{
+              "age": 30,
+              "product_category": "Electronics",
+              "price": 500,
+              "quantity": 2,
+              "discount_percent": 10,
+              "rating": 4,
+              "delivery_days": 3,
+              "payment_method": "Credit Card",
+              "region": "South",
+              "membership_level": "Gold",
+              "previous_orders": 5,
+              "total_amount": 900
+            }'
+
+      - name: Stop Docker container
+        if: always()
+        run: docker rm -f ecommerce-container || true
